@@ -4,6 +4,6 @@ fun main() {
     score = 20
 
     val greeting: String = "Hello, Kotlin!"
-    greeting = "Hi!!!!!"
+   /* greeting = "Hi!!!!!" */
 
 }
