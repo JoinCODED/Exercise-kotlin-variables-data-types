@@ -5,5 +5,5 @@ fun main() {
 
 
     score = 20
-    greeting = "test"
+//    greeting = "test"
 }
