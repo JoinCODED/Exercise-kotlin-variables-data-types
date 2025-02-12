@@ -1,5 +1,6 @@
 fun main ()
 {
+    // printing
     println( greetTraveler())
     println(findOasis(10.0,20.0))
     println(currentTemperature(25,40))
